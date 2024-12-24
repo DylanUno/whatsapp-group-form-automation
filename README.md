@@ -32,7 +32,7 @@ This tool is designed to work within WhatsApp's automation policies by:
 
 1. Clone this repository:
 ```bash
-git [clone https://github.com/yourusername/whatsapp-group-form-manager.git](https://github.com/DylanUno/whatsapp-group-form-automation.git)
+git clone https://github.com/yourusername/whatsapp-group-form-manager.git
 cd whatsapp-group-form-automation
 ```
 
